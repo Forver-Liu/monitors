@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #coding:utf-8
-#Author:LiuYingbin
+#Author:forverLiu2015@gmail.com
 
 import sys,time,re,os,glob
 
